@@ -11,7 +11,6 @@ class ShapeTest {
         Shape shape = new Shape();
         int corners = shape.getCorners();
         assertEquals(4,  corners);
-        System.out.println("test 1 ");
     }
 
 }
