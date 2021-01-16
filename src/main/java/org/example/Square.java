@@ -5,6 +5,7 @@ public class Square {
 
     public long getSquare(int i) {
         String test = new String("af");
+        // hi
         return (long) Math.sqrt(i);
     }
 
